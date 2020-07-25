@@ -34,7 +34,9 @@ import sys
 ## Function to Offer Fake Menu and CVE
 in this section you can see the menu works and to atempt to make it look like a real scanner
 
+
 def main():
+
         print("CVE-2020-1350 Vulnerablity Scanner by @TheCyberViking, @ZepherFish, @TJ_Null, @ZoomerX")
         print("This is in attempt to scan and open the link to prove exploitation")
         print(".")
